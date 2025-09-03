@@ -2,7 +2,7 @@
 <g id="Frame 1">
 <rect id="Background" width="674" height="816" fill="#F5E9D2"/>
 <rect id="MoldCo Logo" x="28" y="25" width="124" height="34" fill="url(#pattern0_8_61)"/>
-<text id="Patient Progress Report" fill="#445438" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="24" letter-spacing="0em"><tspan x="370" y="48.2273">Patient Progress Report</tspan></text>
+<text id="Patient Progress Report" fill="#445438" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="24" letter-spacing="0em"><tspan x="370" y="51.2273">Patient Progress Report</tspan></text>
 <g id="Baseline Box">
 <path id="Rectangle 2" d="M131 731C131 723.268 137.268 717 145 717H237.319C245.051 717 251.319 723.268 251.319 731V762C251.319 769.732 245.051 776 237.319 776H145C137.268 776 131 769.732 131 762V731Z" fill="#E1984B"/>
 <text id="Baseline" fill="#F5E9D2" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="144.007" y="766.5">Baseline</tspan></text>
