@@ -6,7 +6,7 @@ import base64
 print("--- MoldCo Report Generator Initialized ---")
 
 # Font embedding configuration
-INTER_FONT_PATH = "Inter-VariableFont_opsz,wght.ttf"
+INTER_FONT_PATH = "font.ttf"
 FONT_FAMILY_NAME = "Inter"
 
 # --- 1. PATIENT DATA INPUT ---

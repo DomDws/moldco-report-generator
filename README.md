@@ -20,7 +20,7 @@ This project contains a Python script that automatically generates a visual pati
 
 * `create_report.py`: The main Python script that runs the automation.
 * `report_template.svg`: The design template exported from Figma.
-* `Inter-VariableFont_opsz,wght.ttf`: The custom font file used in the design.
+* `font.ttf`: The custom font file used in the design.
 * `README.md`: This instruction file.
 * `requirements.txt`: A list of the required Python libraries.
 * `.gitignore`: Specifies files for Git to ignore.
